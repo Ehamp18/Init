@@ -1,0 +1,23 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    08                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: elhampto <elhampto@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/04/15 17:38:19 by elhampto          #+#    #+#              #
+#    Updated: 2019/04/16 03:19:05 by elhampto         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+whois slash16.org
+
+I looked on google for ways to find the provider of the website that was
+specified. At first I was using nslookup but that did not work, I found whois.
+This command gave the information I was looking for plus more. I found the 
+provider at the bottom of each intry. I list them below:
+
+Name Server: ns-144.awsdns-18.com
+Name Server: ns-1989.awsdns-56.co.uk
+Name Server: ns-1236.awsdns-26.org
+Name Server: ns-686.awsdns-21.net

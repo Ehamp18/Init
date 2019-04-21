@@ -1,0 +1,17 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    06                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: elhampto <elhampto@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/04/15 14:45:36 by elhampto          #+#    #+#              #
+#    Updated: 2019/04/15 15:17:04 by elhampto         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+cat /etc/resolv.conf
+
+I did not know how to find the file, so I looked on google for different
+commands I could use. I found a few options, but I ended up picking the most
+straight forward option which was using cat.
