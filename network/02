@@ -3,12 +3,12 @@
 #                                                         :::      ::::::::    #
 #    02                                                 :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: elhampto <marvin@42.fr>                    +#+  +:+       +#+         #
+#    By: elhampto <elhampto@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/04/08 19:50:31 by elhampto          #+#    #+#              #
-#    Updated: 2019/04/08 19:50:33 by elhampto         ###   ########.fr        #
+#    Updated: 2019/04/25 15:49:13 by elhampto         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-A: ifconfig | grep "broadcast" | cut -c 
-B: ifconfig | grep "inet" | grep "netmask 0xff000000"
+ifconfig | grep "broadcast"
+ifconfig | grep "inet" | grep "netmask 0xff000000"

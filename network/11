@@ -6,8 +6,9 @@
 #    By: elhampto <elhampto@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/04/16 15:27:35 by elhampto          #+#    #+#              #
-#    Updated: 2019/04/16 15:27:38 by elhampto         ###   ########.fr        #
+#    Updated: 2019/04/24 19:01:06 by elhampto         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-
+The name is defined by NAT (Network address translation). The IP address on the
+current computer is 10.90.1.11.

@@ -6,7 +6,8 @@
 #    By: elhampto <elhampto@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/04/16 19:32:33 by elhampto          #+#    #+#              #
-#    Updated: 2019/04/16 19:32:34 by elhampto         ###   ########.fr        #
+#    Updated: 2019/04/24 21:29:17 by elhampto         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
+The file that contains the local dns entries is /etc/hosts
