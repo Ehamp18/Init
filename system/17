@@ -6,7 +6,8 @@
 #    By: elhampto <elhampto@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/04/26 03:42:50 by elhampto          #+#    #+#              #
-#    Updated: 2019/04/26 03:42:51 by elhampto         ###   ########.fr        #
+#    Updated: 2019/04/28 15:35:46 by elhampto         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
+ssh profile-name@ip address

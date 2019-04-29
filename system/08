@@ -6,7 +6,8 @@
 #    By: elhampto <elhampto@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/04/26 03:42:21 by elhampto          #+#    #+#              #
-#    Updated: 2019/04/26 03:42:22 by elhampto         ###   ########.fr        #
+#    Updated: 2019/04/27 19:46:01 by elhampto         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
+The RSA key is stored  /etc/ssh,

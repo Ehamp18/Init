@@ -6,7 +6,8 @@
 #    By: elhampto <elhampto@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/04/26 03:42:52 by elhampto          #+#    #+#              #
-#    Updated: 2019/04/26 03:42:53 by elhampto         ###   ########.fr        #
+#    Updated: 2019/04/28 15:37:18 by elhampto         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
+sudo service ssh stop
