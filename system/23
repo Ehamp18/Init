@@ -6,7 +6,11 @@
 #    By: elhampto <elhampto@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/04/26 03:43:05 by elhampto          #+#    #+#              #
-#    Updated: 2019/04/26 03:43:06 by elhampto         ###   ########.fr        #
+#    Updated: 2019/07/16 21:58:35 by elhampto         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
+If you have the root access, then you will want to login to root.
+Creat a new user for yourself, with password. Before you log out of root,
+you need to check if it was created, ownership is your user, and the ~/.ssh is
+set to 700.

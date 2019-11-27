@@ -1,15 +1,13 @@
 # **************************************************************************** #
 #                                                                              #
 #                                                         :::      ::::::::    #
-#    21                                                 :+:      :+:    :+:    #
+#    03.sh                                              :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
 #    By: elhampto <elhampto@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2019/04/26 03:43:01 by elhampto          #+#    #+#              #
-#    Updated: 2019/07/16 17:18:23 by elhampto         ###   ########.fr        #
+#    Created: 2019/04/26 03:43:22 by elhampto          #+#    #+#              #
+#    Updated: 2019/07/16 23:00:22 by elhampto         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-grep -E '^UID_MIN|^UID_MAX' /etc/login.defs
-
-getent passwd {# from above command}
+open https://www.youtube.com/watch?v=dQw4w9WgXcQ

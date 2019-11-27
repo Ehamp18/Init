@@ -1,15 +1,13 @@
 # **************************************************************************** #
 #                                                                              #
 #                                                         :::      ::::::::    #
-#    21                                                 :+:      :+:    :+:    #
+#    01.sh                                              :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
 #    By: elhampto <elhampto@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2019/04/26 03:43:01 by elhampto          #+#    #+#              #
-#    Updated: 2019/07/16 17:18:23 by elhampto         ###   ########.fr        #
+#    Created: 2019/04/26 03:43:18 by elhampto          #+#    #+#              #
+#    Updated: 2019/07/16 22:54:44 by elhampto         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-grep -E '^UID_MIN|^UID_MAX' /etc/login.defs
-
-getent passwd {# from above command}
+awk -F ":" ' {print "Login: "$1 " UID: "$3 " Path: "$6}' /etc/passwd
